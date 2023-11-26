@@ -1,0 +1,30 @@
+body {
+    background-color: royalblue;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    word-wrap: normal;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+a:hover, a:active {
+    background-color: royalblue;
+    color: white;
+}
